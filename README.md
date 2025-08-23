@@ -1,3 +1,7 @@
+
+
+PagerDutyを追加、Looker Studio
+
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=username" />
@@ -42,51 +46,66 @@ AWS認定資格: SAP、DOP、SCS、MLS、SAA、DEA、CLF (7資格)
 
 # 📊 Projects
 
-※ 上4つは同じ会社内でのSRE支援案件で、並行して参画中
+※ 上4つ💫は同じ会社内でのSRE支援案件で、一部並行して参画中
 
 <br>
 
 ## 💫 大手メーカーのデータ分析基盤構築支援 (2025/7 - 2025/8 : 2ヶ月)
 
-`課題`: 
+`課題`: Terraform moduleの再利用性が低く、新規環境構築時の効率的な展開ができない状態
      
 `チーム`: 6人
 
-`技術`: BigQuery, Dataform, Terraform, SQL
+`技術`: BigQuery, Dataform, Terraform, SQL, Looker Studio, PagerDuty  
 
-`業務`: 
+`業務`: クライアントとの要件調整、データ基盤改善、AWS設計レビュー
 
 `成果`: 
+
+moduleの改修により、汎用的に使用できるように改善
+
+AWSアーキテクチャに関する知見をメンバーと共有し、設計レビューの品質向上を支援
+
 
 <br>
 
-## 💫 データETL処理サービスのインフラ基盤の運用保守 (2025/4 - 2025/8 : 5ヶ月)
+## 💫 ETLデータ処理システムのインフラ運用・監視・保守 (2025/4 - 2025/8 : 5ヶ月)
 
-`課題`: 
+`課題`: 定期的なアップデート作業が後回しになり、最新バージョンへの追従ができていない状態
      
 `チーム`: 3人
 
-`技術`: GKE, Helmfile, Terraform, Datadog, GitHub Actions
+`技術`: GKE, CloudSQL, Helmfile, Terraform, Datadog, Cloud Logging, GitHub Actions
 
-`業務`: 
+`業務`: GKE・CloudSQLアップグレード対応、その他基盤改善・保守
 
 `成果`: 
+
+helmコマンドを使用したdiff & deploy workflowの作成
+
+renovateによる日々のアップデートにより常に最新バージョンでの運用を実現
+
+Argo Workflowsのスケジュールエラーを検知するアラートの実装方法の検討と導入
 
 <br>
 
 ## 💫 FinTech企業でのSRE支援 (2025/4 - 2025/6 : 3ヶ月)
 
-`課題`: 
+`課題`: 大量の誤検知アラートにより、本来対応すべきアラートが埋もれ、適切な監視・対応ができていない状況
      
 `チーム`: 6人
 
-`技術`: EKS, Control Tower, Terraform, Datadog, ArgoCD, GitHub Actions
+`技術`: EKS, Control Tower, Terraform, Datadog, Argo CD, GitHub Actions
 
-`業務`: 
+`業務`: k8s周りの環境整備、監視周りの整備
 
 `成果`: 
 
+誤検知アラートの解消、必須アラートの追加
 
+散在していた環境の統合・整備を実施
+
+属人化タスクの標準化・チーム全体への知識共有を推進
 
 <br>
 
@@ -116,7 +135,7 @@ PMOの技術理解度に合わせた説明資料の作成
 
 <br>
 
-## ✰ 大手ECサイトのクラウド移行推進業務 (2024/2 - 2024/10 : 9ヶ月)  ※ フリーに転向
+## ✰ 大手ECサイトのクラウド移行推進業務 (2024/1 - 2024/10 : 10ヶ月)  ※ フリーに転向
 
 `課題`: 100以上のオンプレミス環境のAWS移行促進
 
