@@ -42,16 +42,61 @@ AWS認定資格: SAP、DOP、SCS、MLS、SAA、DEA、CLF (7資格)
 
 # 📊 Projects
 
+※ 上4つは同じ会社内でのSRE支援案件で、並行して参画中
+
 <br>
 
-## 💫 大手Sler SREチームのPOC環境のマルチアカウント化の検討 (2024/11 - 2025/3 : 5ヶ月)
+## 💫 大手メーカーのデータ分析基盤構築支援 (2025/7 - 2025/8 : 2ヶ月)
 
-`課題`: マルチアカウント化の推進における障壁の解消
-     開発チームとインフラチーム間のコミュニケーション不足による連携阻害
+`課題`: 
+     
+`チーム`: 6人
+
+`技術`: BigQuery, Dataform, Terraform, SQL
+
+`業務`: 
+
+`成果`: 
+
+<br>
+
+## 💫 データETL処理サービスのインフラ基盤の運用保守 (2025/4 - 2025/8 : 5ヶ月)
+
+`課題`: 
      
 `チーム`: 3人
 
-`技術`: EKS, Lambda, Cognito, Control Tower, Terraform, GitLab, SAM, Vue.js, Java
+`技術`: GKE, Helmfile, Terraform, Datadog, GitHub Actions
+
+`業務`: 
+
+`成果`: 
+
+<br>
+
+## 💫 FinTech企業でのSRE支援 (2025/4 - 2025/6 : 3ヶ月)
+
+`課題`: 
+     
+`チーム`: 6人
+
+`技術`: EKS, Control Tower, Terraform, Datadog, ArgoCD, GitHub Actions
+
+`業務`: 
+
+`成果`: 
+
+
+
+<br>
+
+## 💫 大手Sler POC環境のマルチアカウント化の導入支援 (2024/11 - 2025/3 : 5ヶ月)
+
+`課題`: マルチアカウント化の推進における障壁の解消、開発とインフラチーム間の連携不足
+     
+`チーム`: 3人
+
+`技術`: EKS, Lambda, Cognito, Control Tower, Terraform, GitLab CI, SAM, Vue.js, Java
 
 `業務`: マルチアカウント運用とサーバレスアーキテクチャ構築
 
@@ -71,13 +116,13 @@ PMOの技術理解度に合わせた説明資料の作成
 
 <br>
 
-## ✰ 大手ECサイトのクラウド移行推進業務 (2024/2 - 2024/10 : 9ヶ月)
+## ✰ 大手ECサイトのクラウド移行推進業務 (2024/2 - 2024/10 : 9ヶ月)  ※ フリーに転向
 
 `課題`: 100以上のオンプレミス環境のAWS移行促進
 
 `チーム`: 8人
 
-`技術`: ECS, Control Tower, Transit Gateway, Terraform, New Relic, Backlog
+`技術`: ECS, Control Tower, Transit Gateway, Terraform, New Relic, Backlog, GitHub Actions
 
 `業務`: マルチアカウントの運用管理・改善、New Relic導入ガイドライン策定、クラウド移行設計レビュー
 
