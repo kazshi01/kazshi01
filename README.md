@@ -71,9 +71,9 @@ AWSアーキテクチャに関する知見をメンバーと共有し、設計�
      
 `チーム`: 3人
 
-`技術`: GKE, CloudSQL, Helmfile, Terraform, Datadog, Cloud Logging, GitHub Actions
+`技術`: GKE, Cloud SQL, Helmfile, Terraform, Datadog, Cloud Logging, GitHub Actions
 
-`業務`: GKE・CloudSQLアップグレード対応、その他基盤改善・保守
+`業務`: GKE・Cloud SQLアップグレード対応、その他基盤改善・保守
 
 `成果`: 
 
