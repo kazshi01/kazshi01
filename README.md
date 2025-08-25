@@ -7,7 +7,6 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Profile
 
-- 🧑‍💻 志賀 和磨 36歳
 - 🏫 立教大学 理学部 化学科卒
 - 🌱 エンジニア歴3年弱（`2022/11 - 2025/9`）
 - 🌈 `SRE`・`DevOps`・`DataOps`を中心に、クラウドインフラ領域を専門としています
