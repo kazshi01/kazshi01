@@ -22,7 +22,7 @@
 
  
 ```
-AWS認定資格: SAP、DOP、SCS、MLS、SAA、DEA、CLF (7資格)
+AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 
 その他: LPIC1
 ```
@@ -31,9 +31,9 @@ AWS認定資格: SAP、DOP、SCS、MLS、SAA、DEA、CLF (7資格)
 
  
 ```
-得意分野: AWS、SRE、DevOps
+得意分野: AWS, GCP,  SRE, DevOps
 
-得意技術: ECS、EKS、Terraform、CI/CD
+得意技術: ECS, EKS, Terraform, CI/CD
 
 得意業務: インフラのコード化、自動化、業務改善、アジャイル開発
 ```
@@ -45,13 +45,13 @@ AWS認定資格: SAP、DOP、SCS、MLS、SAA、DEA、CLF (7資格)
 
 <br>
 
-## 💫 大手メーカーのデータ分析基盤構築支援 (2025/7 - 2025/8 : 2ヶ月)
+## 💫 大手メーカーのデータ分析基盤構築支援 (2025/7 - 2025/9 : 3ヶ月)
 
 `課題`: Terraform moduleの再利用性が低く、新規環境構築時の効率的な展開ができない
      
 `チーム`: 6人
 
-`技術`: BigQuery, Dataform, Terraform, SQL, Looker Studio, PagerDuty  
+`技術`: BigQuery, Dataform, Terraform, SQL, Looker Studio, Vertex AI, PagerDuty  
 
 `業務`: クライアントとの要件調整、データ基盤改善、AWS設計レビュー
 
@@ -64,7 +64,7 @@ AWSアーキテクチャに関する知見をメンバーと共有し、設計�
 
 <br>
 
-## 💫 データ連携システムのインフラ運用・監視・保守 (2025/4 - 2025/8 : 5ヶ月)
+## 💫 データ連携システムのインフラ運用・監視・保守 (2025/4 - 2025/9 : 6ヶ月)
 
 `課題`: 定期的なアップデート作業が後回しになり、最新バージョンへの追従ができていない
      
