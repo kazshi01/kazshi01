@@ -41,7 +41,7 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 
 # 📊 Projects
 
-※ 上4つ💫は同じ会社内での SRE 支援案件で、一部並行して参画中
+※ 直近 4 つの💫案件は同じ会社内での SRE 支援案件で、一部並行して参画中
 
 <br>
 
@@ -51,13 +51,15 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
      
 `チーム`: 6人
 
-`技術`: BigQuery, Dataform, Terraform, SQL, Looker Studio, Vertex AI, PagerDuty  
+`インブラ`: BigQuery, Dataform, Cloud Composer, Terraform, SQL, Looker Studio, Vertex AI, PagerDuty
+
+`開発`: Python
 
 `業務`: クライアントとの要件調整、データ基盤改善、AWS 設計レビュー
 
-`成果`: 
+#### `成果`
 
-module の改修により、汎用的に使用できるように改善
+データ基盤の Terraform module の改修により、汎用的に使用できるように改善
 
 AWS アーキテクチャに関する知見をメンバーと共有し、設計レビューの品質向上を支援
 
@@ -70,11 +72,13 @@ AWS アーキテクチャに関する知見をメンバーと共有し、設計�
      
 `チーム`: 3人
 
-`技術`: GKE, Cloud SQL, Helmfile, Terraform, Datadog, Cloud Logging, GitHub Actions
+`インフラ`: GKE, Cloud SQL, Helmfile, Terraform, Datadog, Cloud Logging, GitHub Actions
+
+`開発`: Go
 
 `業務`: GKE・Cloud SQL アップグレード対応、その他基盤改善・保守
 
-`成果`: 
+#### `成果`
 
 helm コマンドを使用した diff & deploy workflow の作成
 
@@ -90,11 +94,11 @@ Argo Workflows のスケジュールエラーを検知するアラートの実�
      
 `チーム`: 6人
 
-`技術`: EKS, Control Tower, Terraform, Datadog, Argo CD, GitHub Actions
+`インフラ`: EKS, Control Tower, Terraform, Datadog, Argo CD, GitHub Actions
 
 `業務`: k8s 周りの環境整備、監視周りの整備
 
-`成果`: 
+#### `成果` 
 
 誤検知アラートの解消、必須アラートの追加
 
@@ -110,11 +114,13 @@ Argo Workflows のスケジュールエラーを検知するアラートの実�
      
 `チーム`: 3人
 
-`技術`: EKS, Lambda, Cognito, Control Tower, Terraform, GitLab CI, SAM, Vue.js, Java
+`インフラ`: EKS, Lambda, Cognito, Control Tower, Terraform, GitLab CI, SAM
+
+`開発`: Vue.js, Java
 
 `業務`: マルチアカウント運用とサーバレスアーキテクチャ構築
 
-`成果`: 
+#### `成果`
 
 開発チームと連携し、インフラの構築やアプリのデバッグを支援
 
@@ -136,11 +142,13 @@ PMO の技術理解度に合わせた説明資料の作成
 
 `チーム`: 8人
 
-`技術`: ECS, Control Tower, Transit Gateway, Terraform, New Relic, Backlog, GitHub Actions
+`インフラ`: ECS, Control Tower, Transit Gateway, Terraform, New Relic, Backlog, GitHub Actions
+
+`開発`: React, Go
 
 `業務`: マルチアカウントの運用管理・改善、New Relic 導入ガイドライン策定、クラウド移行設計レビュー
 
-`成果`:
+#### `成果`
 
 NAT Gateway から 集約 VPC Endpoint への切り替えによるコスト削減を実施
 
@@ -158,11 +166,13 @@ NAT Gateway から 集約 VPC Endpoint への切り替えによるコスト削�
 
 `チーム`: 7人
 
-`技術`: EKS, EC2, Helm, Jenkins, Terraform, Java, Jira, Confluence
+`インフラ`: EKS, EC2, Helm, Jenkins, Terraform, Jira, Confluence
 
-`業務`: EC2 から EKS へのサーバー移行、E2E テスト設計構築、CI/CD パイプライン改善
+`開発`: Java, Maven, Junit
 
-`成果`: 
+`業務`: EC2 から EKS へのサーバー移行、E2E テスト設計構築、CICD パイプライン改善
+
+#### `成果` 
 
 複数サーバー移行の共通フローをドキュメント化し、メンバーの作業効率化を支援
 
@@ -178,11 +188,11 @@ NAT Gateway から 集約 VPC Endpoint への切り替えによるコスト削�
 
 `チーム`: 6人
 
-`技術`: Windows, ECS, EC2 Systems Manager
+`インフラ`: ECS, EC2, Systems Manager
 
 `業務`: ガバメントクラウド要件に基づく移行提案
 
-`成果`:
+#### `成果`
 
 サブリーダーとして、タスクの切り出しや進捗管理を担当
 
