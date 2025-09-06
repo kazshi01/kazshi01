@@ -49,7 +49,7 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 
 `課題`: Terraform module の再利用性が低く、新規環境構築時の効率的な展開ができない
      
-`チーム`: 6人
+`チーム`: 4人
 
 `インブラ`: BigQuery, Dataform, Cloud Composer, Terraform, SQL, Looker Studio, Vertex AI, PagerDuty
 
