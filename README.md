@@ -5,20 +5,20 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Profile
+# Profile
 
-- 🏫 立教大学 理学部 化学科卒
-- 🌱 エンジニア歴3年弱（`2022/11 - 2025/9`）
-- 🌈 `SRE`・`DevOps`・`DataOps`を中心に、クラウドインフラ領域を専門としています
+- 立教大学 理学部 化学科卒
+- エンジニア歴3年弱（`2022/11 - 2025/9`）
+- `SRE`・`DevOps`・`DataOps`を中心に、クラウドインフラ領域を専門としています
 <br>
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-# ⭐️ Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,gcp,terraform,k8s,go,ts," />
+# Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,gcp,terraform,k8s,go,ts" />
 
-# 🏆 Certifications
+# Certifications
 
  
 ```
@@ -27,7 +27,7 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 その他: LPIC1
 ```
 
-# 💼 Experience & Expertise
+# Experience & Expertise
 
  
 ```
@@ -39,7 +39,7 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 ```
 <br> 
 
-# 📊 Projects
+# Projects
 
 <br>
 
