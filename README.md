@@ -43,11 +43,13 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 
 [決済システム](https://github.com/kazshi01/payment-system)
 
-`開発`： Go, DDD, OIDC(KeyCloak), Redis, Tx処理, OpenAPI, テスト
+`開発`： Go, DDD, OIDC(KeyCloak), Redis, Tx処理
 
 `DB`： sqlc, Postgres
 
 `インフラ`： Docker Compose
+
+`その他`： OpenAPI, テスト, Makefile
 
 
 
