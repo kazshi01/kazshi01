@@ -37,6 +37,20 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 
 得意業務: インフラのコード化、自動化、業務改善、アジャイル開発
 ```
+## 個人開発にて決済システムの構築
+
+クラウドインフラ寄りの実務経験が多い為、バックエンド強化目的での実装
+
+[決済システム](https://github.com/kazshi01/payment-system)
+
+`開発`： Go, DDD, OIDC(KeyCloak), Redis, Tx処理, OpenAPI, テスト
+
+`DB`： sqlc, Postgres
+
+`インフラ`： Docker Compose
+
+
+
 <br> 
 
 # Projects
