@@ -58,7 +58,7 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 
 <br> 
 
-## 自社・受託開発会社にて SRE 支援として複数案件に参画（ 2024/11 - 現在 ） ※ 業務委託
+## 自社・受託開発会社にて SRE 支援として複数案件に参画（2024/11 - 現在） ※ 業務委託
 
 ※ 直近 4つの案件は、同一会社内での稼働になります
 
@@ -94,7 +94,7 @@ Argo Workflows のスケジュールエラーを検知するアラートの実�
      
 `チーム`: 4人
 
-`インブラ`: BigQuery, Dataform, Cloud Composer, Terraform, SQL, Looker Studio, Vertex AI, PagerDuty
+`インフラ`: BigQuery, Dataform, Cloud Composer, Terraform, SQL, Looker Studio, Vertex AI, PagerDuty
 
 `開発`: Python
 
@@ -161,7 +161,7 @@ PMO の技術理解度に合わせた説明資料の作成
 
 <br>
 
-## CCoE : 大手 EC サイトのクラウド移行推進業務( 2024/1 - 2024/10 ） ※ 業務委託
+## CCoE : 大手 EC サイトのクラウド移行推進業務（2024/1 - 2024/10） ※ 業務委託
 
 `課題`: 100 以上のオンプレミス環境の AWS 移行促進
 
@@ -185,7 +185,7 @@ NAT Gateway から 集約 VPC Endpoint への切り替えによるコスト削�
 
 <br>
 
-## インフラ SES 企業にて AWS 案件に参画（ 2022/11 - 2023/12 ）
+## インフラ SES 企業にて AWS 案件に参画（2022/11 - 2023/12）
  
 ### ・DevOps : 大手ゲーム会社の基幹システムサーバのリプレイス
 
