@@ -8,7 +8,7 @@
 # Profile
 
 - 立教大学 理学部 化学科卒
-- エンジニア歴3年弱（`2022/11 - 2025/9`）
+- エンジニア歴3年弱（`2022/11 - 2025/10`）
 - `SRE`・`DevOps`・`DataOps`を中心に、クラウドインフラ領域を専門としています
 
 <!-- 3. 好きな技術スタックに変更 -->
@@ -32,7 +32,7 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 ```
 得意分野: AWS, GCP,  SRE, DevOps
 
-得意技術: ECS, EKS, Terraform, CI/CD
+得意技術: ECS, EKS, Terraform, CICD
 
 得意業務: インフラのコード化、自動化、業務改善、アジャイル開発
 ```
