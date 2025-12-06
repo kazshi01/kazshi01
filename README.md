@@ -30,7 +30,7 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 
  
 ```
-得意分野: AWS, GCP,  SRE, DevOps
+得意分野: AWS, GCP,  SRE, DevOps, DataOps, MLOps
 
 得意技術: ECS, EKS, Terraform, CICD
 
@@ -90,13 +90,15 @@ Argo Workflows のスケジュールエラーを検知するアラートの実�
 
 `期間`: 2025 / 10 - 現在
 
-`課題`: 構成や非機能要件が決まっていない
+`課題`: 構成や非機能要件が決まっていない中での要件調整
      
 `チーム`: 5人
 
-`インフラ`: GCP, Apigee（API Gateway）, Auth0, Vertex AI, ネットワーク周り全般
+`インフラ`: GCP, Apigee（API Gateway）, Auth0, Vertex AI Pipeline, Azure DevOps
 
-`業務`: GCPネットワーク、認証認可基盤の構成の提案と基本設計書作成
+`開発`: Python
+
+`業務`: GCPネットワーク、認証認可基盤、AIパイプライン等の構成提案、および基本設計書作成
 
 #### `成果`
 
@@ -104,7 +106,7 @@ Argo Workflows のスケジュールエラーを検知するアラートの実�
 
 ベストプラクティスに則したインフラ構成の提案
 
-スコープについて明示し、スケジュールを考慮したアウトプット
+スコープを意識したスケジュール調整やアウトプットで業務進捗の改善
 
 <br>
 
