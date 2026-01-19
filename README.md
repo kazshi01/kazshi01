@@ -8,7 +8,7 @@
 # Profile
 
 - 立教大学 理学部 化学科卒
-- エンジニア歴3年（`2022/11 - 2025/12`）
+- エンジニア歴3年2ヶ月（`2022/11 - 2026/1`）
 - `SRE`・`DevOps`・`DataOps`・`MLOps`を中心に、クラウドインフラ領域を専門としています
 
 <!-- 3. 好きな技術スタックに変更 -->
@@ -32,7 +32,7 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 ```
 得意分野: AWS, GCP,  SRE, DevOps, DataOps, MLOps
 
-得意技術: ECS, EKS, Terraform, CICD
+得意技術: ECS, EKS, GKE, Terraform, CICD
 
 得意業務: インフラのコード化、自動化、業務改善、アジャイル開発
 ```
@@ -44,7 +44,7 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 
 [決済システム](https://github.com/kazshi01/payment-system)
 
-`開発`： Go, DDD, OIDC(KeyCloak), Redis, Tx処理
+`開発`： Go, DDD, OIDC (KeyCloak), Redis, Tx処理
 
 `DB`： sqlc, Postgres
 
@@ -76,7 +76,7 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
 
 `開発`: Python, LiNGAM（因果推論）
 
-`業務`: GCPネットワーク、認証認可基盤、AIパイプライン、LLM観測基盤、要件定義、基本設計
+`業務`: GCPネットワーク構築、GKE基盤構築、認証認可基盤構築、AIパイプライン構築、LLM観測基盤構築、要件定義、基本設計
 
 #### `成果`
 
