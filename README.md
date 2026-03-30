@@ -68,11 +68,11 @@ AWS認定資格: SAP, DOP, SCS, MLS, SAA, DEA, CLF (7資格)
      
 `チーム`: 3人
 
-`インフラ`: GKE, Cloud SQL, Helmfile, Terraform, Datadog, Cloud Logging, GitHub Actions
+`インフラ`: GKE, Cloud SQL, Helmfile, Terraform, Datadog, Cloud Logging, GitHub Actions, Argo Workflows
 
 `開発`: Go
 
-`業務`: GKE・Cloud SQL アップグレード対応、監視アラート調整、コスト削減、その他基盤改善・保守
+`業務`: GKE・Cloud SQL アップグレード対応、監視アラート調整、コスト削減、その他基盤追加・改善・保守
 
 #### `成果`
 
@@ -92,9 +92,11 @@ GKE Nodes マシンタイプ調整、Pod設定調整によるコスト削減対�
      
 `チーム`: 6人
 
-`インフラ`: GCP, GKE, Apigee(API Gateway), Auth0, Vertex AI Pipelines, Langfuse, Azure DevOps
+`インフラ`: GCP, GKE, Terraform, Helm, Apigee(API Gateway), Auth0, Vertex AI Pipelines, Azure DevOps, Argo CD
 
 `開発`: Python, LiNGAM（因果推論）
+
+`その他`: Dify, Langfuse
 
 `業務`: GCPネットワーク構築、GKE基盤構築、認証認可基盤構築、AIパイプライン構築、LLM観測基盤構築、要件定義、基本設計
 
